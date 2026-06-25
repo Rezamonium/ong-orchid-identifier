@@ -32,7 +32,7 @@ authors:
   - given-names: William
     family-names: Edwards
     affiliation: "James Cook University, Cairns, Australia"
-repository-code: "https://github.com/your-username/ong-orchid-identifier"
+repository-code: "https://github.com/rezamonium/ong-orchid-identifier"
 url: "https://huggingface.co/spaces/Rezamonium/ong-orchid-identifierv3"
 keywords:
   - Orchidaceae

@@ -47,7 +47,7 @@ app/              Deployed Hugging Face Space application (Gradio).
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/ong-orchid-identifier.git
+git clone https://github.com/rezamonium/ong-orchid-identifier.git
 cd ong-orchid-identifier
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r app/requirements.txt
