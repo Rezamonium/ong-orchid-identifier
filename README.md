@@ -1,4 +1,4 @@
-# AnggrekScan
+# New Guinea Orchid Identifier v3
 
 **Vision-Transformer genus identification and species retrieval for the Orchidaceae of New Guinea.**
 

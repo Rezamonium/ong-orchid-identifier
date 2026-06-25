@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it using these metadata, and also cite the associated paper."
-title: "AnggrekScan: Vision-Transformer genus identification and species retrieval for the Orchidaceae of New Guinea"
+title: "New Guinea Orchid Identifier v3: Vision-Transformer genus identification and species retrieval for the Orchidaceae of New Guinea"
 abstract: >-
   A two-stage system for identifying New Guinea orchids from field photographs:
   genus-level classification with a fine-tuned DINOv2 backbone followed by FAISS
