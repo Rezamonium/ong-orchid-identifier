@@ -4,10 +4,10 @@
 
 This repository contains the code accompanying the manuscript:
 
-> Saputra, R., Metzger, K., Schuiteman, A., Field, A., Nargar, K., & Edwards, W.
+> Saputra, et al. 2026
 > *Vision Transformers versus convolutional networks for fine-grained orchid genus
 > identification in a species-rich, data-poor flora: a controlled benchmark on the
-> Orchidaceae of New Guinea.* (under review)
+> Orchidaceae of New Guinea.* (Manuscript)
 
 | | |
 |---|---|
@@ -106,6 +106,5 @@ and any derived data are subject to the licensing of the underlying images; see
 ## Acknowledgements
 
 We thank the contributors and curators of orchidsnewguinea.com, the iNaturalist community,
-and the field photographers whose images made this work possible; the maintainers of the
-Lucid multi-access key for New Guinea orchids; and Jeffrey Champion for contributing
+and the field photographers whose images made this work possible; and Jeffrey Champion for contributing
 photographs. This work was supported by the Australian Orchid Foundation.
