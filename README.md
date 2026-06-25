@@ -4,7 +4,7 @@
 
 This repository contains the code accompanying the manuscript:
 
-> Saputra, et al. 2026
+> Saputra, et al. (2026)
 > *Vision Transformers versus convolutional networks for fine-grained orchid genus
 > identification in a species-rich, data-poor flora: a controlled benchmark on the
 > Orchidaceae of New Guinea.* (Manuscript)
