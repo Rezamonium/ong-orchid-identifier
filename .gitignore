@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# Model weights & large binaries (host on Zenodo / Hugging Face, not Git)
+*.pth
+*.pt
+*.safetensors
+*.ckpt
+*.bin
+*.onnx
+*.npy
+*.faiss
+*.index
+models/
+model_weights/
+
+# Archives
+*.zip
+
+# Photographic dataset (license-restricted — never commit)
+data/photos/
+photos/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

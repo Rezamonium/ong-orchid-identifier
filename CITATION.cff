@@ -1,0 +1,63 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata, and also cite the associated paper."
+title: "ONG Orchid Identifier: Vision-Transformer genus identification and species retrieval for the Orchidaceae of New Guinea"
+abstract: >-
+  A two-stage system for identifying New Guinea orchids from field photographs:
+  genus-level classification with a fine-tuned DINOv2 backbone followed by FAISS
+  nearest-neighbour species retrieval over image embeddings. Includes a controlled
+  benchmark of four pretrained backbones (DINOv2, BioCLIP 2, ConvNeXt V2-L,
+  EfficientNetV2-L), temperature-scaling calibration, and an open-set protocol.
+type: software
+version: "3.0.0"
+date-released: "2026-06-26"
+license: MIT
+authors:
+  - given-names: Reza
+    family-names: Saputra
+    email: reza.saputra@jcu.edu.au
+    affiliation: "James Cook University, Cairns, Australia"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - given-names: Kurt
+    family-names: Metzger
+    affiliation: "Aiyura, Eastern Highlands Province, Papua New Guinea"
+  - given-names: André
+    family-names: Schuiteman
+    affiliation: "Royal Botanic Gardens, Kew, Richmond, Surrey, UK"
+  - given-names: Ashley
+    family-names: Field
+    affiliation: "Queensland Herbarium, Brisbane, Australia"
+  - given-names: Katharina
+    family-names: Nargar
+    affiliation: "Australian Tropical Herbarium, Cairns, Australia"
+  - given-names: William
+    family-names: Edwards
+    affiliation: "James Cook University, Cairns, Australia"
+repository-code: "https://github.com/your-username/ong-orchid-identifier"
+url: "https://huggingface.co/spaces/Rezamonium/ong-orchid-identifierv3"
+keywords:
+  - Orchidaceae
+  - New Guinea
+  - fine-grained image classification
+  - Vision Transformer
+  - DINOv2
+  - self-supervised learning
+  - image retrieval
+  - biodiversity informatics
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.XXXXXXX"
+    description: "Zenodo archive of this release (code, model weights, derived results) — to be assigned"
+# Once the paper is published, fill in and uncomment to make it the preferred citation:
+# preferred-citation:
+#   type: article
+#   title: "Vision Transformers versus convolutional networks for fine-grained orchid genus identification in a species-rich, data-poor flora: a controlled benchmark on the Orchidaceae of New Guinea"
+#   authors:
+#     - {given-names: Reza, family-names: Saputra}
+#     - {given-names: Kurt, family-names: Metzger}
+#     - {given-names: André, family-names: Schuiteman}
+#     - {given-names: Ashley, family-names: Field}
+#     - {given-names: Katharina, family-names: Nargar}
+#     - {given-names: William, family-names: Edwards}
+#   year: 2026
+#   journal: "TBD"
+#   doi: "TBD"

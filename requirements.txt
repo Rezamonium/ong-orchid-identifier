@@ -1,0 +1,24 @@
+# Core deep learning
+torch
+torchvision
+timm>=1.0.3
+open_clip_torch        # BioCLIP 2 backbone
+
+# Retrieval
+faiss-cpu
+
+# Data / numerics / evaluation
+numpy
+pandas
+scikit-learn
+pillow
+requests
+tqdm
+
+# Figures
+matplotlib
+umap-learn
+
+# App + model hosting
+gradio>=4.0
+huggingface_hub

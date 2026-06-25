@@ -1,0 +1,9 @@
+torch
+torchvision
+timm>=1.0.3
+faiss-cpu
+gradio>=4.0
+pillow
+numpy
+requests
+huggingface_hub
