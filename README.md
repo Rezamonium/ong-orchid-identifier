@@ -99,7 +99,7 @@ If you use this software, please cite it via [`CITATION.cff`](CITATION.cff) (Git
 
 ## License
 
-Code is released under the **MIT License** (add a `LICENSE` file). Note that model weights
+Code is released under the **MIT License** (see [`LICENSE`](LICENSE)). Note that model weights
 and any derived data are subject to the licensing of the underlying images; see
 *Data availability* above.
 
